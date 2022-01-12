@@ -1,0 +1,23 @@
+{
+    "pdf" : "Mandate-Stop-Request-Form-V2.pdf",
+    "source" : "https://www.idfcfirstbank.com/content/dam/idfcfirstbank/pdf/account-services/Mandate-Stop-Request-Form-V2.pdf",
+    "sourcedate" : "12 Jan 2022",
+    "origin" : "TL",
+    "gridtool" : "gimp",
+    "xmax" : 906,
+    "ymax" : 1248,
+    "pgspec" : {
+        "1" : [
+            { "at" : [657,208], "fld" : "dd", "pitch" : 15.7 },
+            { "at" : [704,208], "fld" : "mm", "pitch" : 15.7 },
+            { "at" : [752,208], "fld" : "yyyy", "pitch" : 15.7 },
+            { "at" : [216,274], "fld" : "acno", "pitch" : 15.7 },
+            { "at" : [216,304], "fld" : "name", "pitch" : 15.7 },
+            { "at" : [153,382], "fld" : "umrn", "pitch" : 15.7 },
+            { "at" : [279,406], "fld" : "provider", "pitch" : 15.7 },
+            { "at" : [216,436], "fld" : "amount", "pitch" : 15.7 },
+            { "at" : [264,463], "fld" : "reason", "pitch" : 15.7 },
+            { "at" : [107,797], "fld" : "name" }
+            ]
+        }
+}
