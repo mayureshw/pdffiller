@@ -54,7 +54,7 @@ fields identified in the metadata json in a 'data json file'.
 
 Once you have these files ready just run
 
-    filepdf.py <metadata json> <data json> > filled.tex
+    fillpdf.py <metadata json> <data json> > filled.tex
     pdflatex filled.tex
 
 ## How to get the locations of fields as x,y pairs
@@ -73,7 +73,7 @@ below.
 
 ## Fields in Metadata json
 
-### Fields that have internal defaults (see filepdf.py), which you may override if needed
+### Fields that have internal defaults (see fillpdf.py), which you may override if needed
 
     xoffset, yoffset:   Due to differences in the way your grid tool and latex
                         see the document layout a slight fixed adjustment may
